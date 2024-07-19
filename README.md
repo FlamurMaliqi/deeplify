@@ -16,3 +16,23 @@ This project consists of a FastAPI backend for handling image uploads and a Reac
    ```bash
    cd path/to/deeplifyBackend
 2. Create a Python virtual environment:
+
+   ```python
+   python -m venv venv
+3. Activate the virtual enviroment:
+
+   - Windows Command Prompt:
+ 
+   ```bash
+   venv\Scripts\activate
+   
+   - Windows PowerShell:
+ 
+   ```bash
+   .\venv\Scripts\Activate
+   
+   - macOS/Linux:
+ 
+   ```bash
+   source venv/bin/activate
+

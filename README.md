@@ -45,5 +45,22 @@ This project consists of a FastAPI backend for handling image uploads and a Reac
    ```bash
    uvicorn main:app --reload
    ```
+## Frontedn Setup (React)
+1. Navigate to the frontend directory:
+   
+   ```bash
+   cd path/to/frontend
+   ```
+2. Install frontend dependencies:
+   
+   If you are using npm:
+   
+   ```bash
+   npm install
+   ```
 
-
+   Or if you are using yarn:
+   ```bash
+   yarn install
+   ```
+   

@@ -63,4 +63,17 @@ This project consists of a FastAPI backend for handling image uploads and a Reac
    ```bash
    yarn install
    ```
+3. Start the React development server:
+
+   If you are using npm:
+
+   ```bash
+   npm start
+   ```
+
+   Or if you are using yarn:
+   
+   ```bash
+   yarn start
+   ```
    

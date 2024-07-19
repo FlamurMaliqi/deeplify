@@ -37,4 +37,13 @@ This project consists of a FastAPI backend for handling image uploads and a Reac
    ```bash
    source venv/bin/activate
    ```
+4. Install backend dependencies:
+   ```bash
+   pip install fastapi uvicorn
+   ```
+5. Run the FastAPI server:
+   ```bash
+   uvicorn main:app --reload
+   ```
+
 

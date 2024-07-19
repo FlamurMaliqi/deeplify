@@ -31,9 +31,10 @@ This project consists of a FastAPI backend for handling image uploads and a Reac
  
    ```bash
    .\venv\Scripts\Activate
-   
+   ```
    - macOS/Linux:
  
    ```bash
    source venv/bin/activate
+   ```
 
